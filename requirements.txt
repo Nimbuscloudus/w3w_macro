@@ -1,0 +1,2 @@
+plotly==4.9.0
+matplotlib==3.3.1
